@@ -5,23 +5,20 @@ nav:
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+## Research Areas
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+<!-------------------------------------->
+{% capture text %}
 
-{% include section.html %}
+The microbiome may be considered a “hidden organ”; however, while all of our hearts have the same design and function, we each have our own unique microbiome that can change in as little as a day. There are few factors that influence gut microbiome composition more than diet. As such, there is a great opportunity to both help and hurt our microbiomes based on dietary practices. In particular, we are researching the effects of prolonged caloric restriction to understand how starving our microbes affects pathogen resistance and microbe-host interactions affecting metabolic health. The goal of these studies is to understand how diet-microbe-host interactions can be leveraged for human health and as a tool for disrupting microbial communities to study microbe-microbe interactions.
 
-## Highlighted
+{% endcapture %}
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
 
-{% include section.html %}
-
-## All
-
-{% include search-box.html %}
-
-{% include search-info.html %}
-
-{% include list.html data="citations" component="citation" style="rich" %}
+{%
+  include feature.html
+  image="images/plate.jpg"
+  link="research"
+  title="Our Research"
+  text=text
+%}
