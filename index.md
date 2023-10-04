@@ -1,12 +1,6 @@
 ---
 ---
 
-# BisanzLab's Website
-
-Our missing is to understand how microbial diversity shapes host physiology.
-
-{% include section.html %}
-
 ## Highlights
 
 {% capture text %}
