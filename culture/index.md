@@ -1,7 +1,7 @@
 ---
 title: Lab Culture
 nav:
-  order: 1
+  order: 5
   tooltip: Published works
 ---
 
