@@ -19,9 +19,7 @@ nav:
 | Member | Role | Years In Lab | Current Position | Accolades |
 | :---- | :----: |  :----: | :----: |  ----: |
 | Jaden Carper  |  Lab Technician   |  2021-2022   |  High School Science Teacher | |
-| Wei Gui  |  Lab Technician   |  2023   |  Associate Product Manager, Abott Labs | |
+| Wei Gui  |  Lab Technician   |  2023   |  Associate Product Manager, Abbott Labs | |
 | Dean Miller  |   Undergraduate Researcher   |  2021-2023   | Intern, Merck Pharmaceuticals | Summer Undergraduate Research Fellowship |
 
 {% endcapture %}
-
-{% include grid.html style="square" content=content %}
