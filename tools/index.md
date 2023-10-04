@@ -1,7 +1,7 @@
 ---
 title: Tools
 nav:
-  order: 1
+  order: 6
   tooltip: Published works
 ---
 
