@@ -5,12 +5,12 @@
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are working to understand how genetic and phenotypic diversity, both at large scales and within species, shapes the assembly and function of host-associated microbes. We are particularily interested in these questions in the context of drugs/xenobiotics, dietary peturbations, and infectious disease.  
 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="See our current projects"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
