@@ -47,7 +47,7 @@ We are actively publishing in multiple areas of microbiome-adjacent science. Fin
   include feature.html
   image="images/natmicro.jpg"
   link="publications"
-  title="Our Projects"
+  title="Our Publications"
   flip=true
   style="bare"
   text=text
@@ -123,5 +123,30 @@ We dip a toe in methods and tool development to enable microbiome research. Find
   image="images/tools.jpg"
   link="tools"
   title="Tools"
+  text=text
+%}
+
+<!-------------------------------------->
+{% capture text %}
+
+We are greatful for the funding we recieve to continue our mission which comes from a variety of sources. 
+
+{%
+  include button.html
+  link="funding"
+  text="Find out more about who makes our work possible"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/funding.jpg"
+  link="funding"
+  title="Funding"
+  flip=true
   text=text
 %}
