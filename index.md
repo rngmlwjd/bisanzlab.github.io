@@ -30,7 +30,7 @@ We are working to understand how genetic and phenotypic diversity, both at large
 <!-------------------------------------->
 {% capture text %}
 
-We are working to understand how genetic and phenotypic diversity, both at large scales and within species, shapes the assembly and function of host-associated microbes. We are particularily interested in these questions in the context of drugs/xenobiotics, dietary peturbations, and infectious disease.  
+There is always something happening in the happy valley, find out more about what is happening now.
 
 {%
   include button.html
@@ -48,6 +48,7 @@ We are working to understand how genetic and phenotypic diversity, both at large
   image="images/news.jpg"
   link="blog"
   title="Latest Lab News"
+  flip=true
   text=text
 %}
 
@@ -72,7 +73,6 @@ We are actively publishing in multiple areas of microbiome-adjacent science. Fin
   image="images/natmicro.jpg"
   link="publications"
   title="Our Publications"
-  flip=true
   style="bare"
   text=text
 %}
@@ -98,6 +98,7 @@ We are an international group of scientists working together to solve mysteries 
   image="images/team.jpg"
   link="team"
   title="Our Team"
+  flip=true
   text=text
 %}
 
@@ -122,7 +123,6 @@ We are committed to creating a positive lab culture to train the next generation
   image="images/culture.jpg"
   link="culture"
   title="Lab Culture"
-  flip=true
   text=text
 %}
 
@@ -147,6 +147,7 @@ We dip a toe in methods and tool development to enable microbiome research. Find
   image="images/tools.jpg"
   link="tools"
   title="Tools"
+  flip=true
   text=text
 %}
 
@@ -171,6 +172,5 @@ We are greatful for the funding we recieve to continue our mission which comes f
   image="images/funding.jpg"
   link="funding"
   title="Funding"
-  flip=true
   text=text
 %}
