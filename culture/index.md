@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Lab Culture
 nav:
   order: 1
   tooltip: Published works
