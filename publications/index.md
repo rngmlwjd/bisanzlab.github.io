@@ -7,6 +7,8 @@ nav:
 
 ## All Publications
 
+See our most up to date list of publications on [google scholar](https://scholar.google.com/citations?user=zRK8-hgAAAAJ).
+
 {% include search-box.html %}
 
 {% include search-info.html %}
