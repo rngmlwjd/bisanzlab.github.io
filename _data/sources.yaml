@@ -1,3 +1,47 @@
+- id: pubmed:37609281
+- id: pubmed:37294090
+- id: pubmed:37205710
+- id: pubmed:37138047
+- id: pubmed:36876113
+- id: pubmed:36634617
+- id: pubmed:36523400
+- id: pubmed:36356566
+- id: pubmed:36253479
+- id: pubmed:35379337
+- id: pubmed:35296854
+- id: pubmed:34789871
+- id: pubmed:34731631
+- id: pubmed:34617511
+- id: pubmed:34163067
+- id: pubmed:33257580
+- id: pubmed:33219152
+- id: pubmed:32747479
+- id: pubmed:32348781
+- id: pubmed:32067637
+- id: pubmed:31805521
+- id: pubmed:31686027
+- id: pubmed:31570867
+- id: pubmed:31492655
+- id: pubmed:31399723
+- id: pubmed:31341288
+- id: pubmed:31324413
+- id: pubmed:31196984
+- id: pubmed:31130466
+- id: pubmed:30426826
+- id: pubmed:30111623
+- id: pubmed:29761785
+- id: pubmed:29155236
+- id: pubmed:28740352
+- id: pubmed:27330858
+- id: pubmed:26387596
+- id: pubmed:25979893
+- id: pubmed:25293764
+- id: pubmed:25127240
+- id: pubmed:23414386
+- id: pubmed:22073175
+- id: pubmed:22030747
+- id: pubmed:21080853
+
 - id: doi:10.1371/journal.pcbi.1007128
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
