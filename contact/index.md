@@ -34,7 +34,7 @@ Are you an undergraduate student who is interested in a career in biomedical res
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"   
-  link="https://www.google.com/maps/place/Huck+Life+Sciences+Building,+University+Park,+PA+16802/@40.8009423,-77.8640743,17z/data=!3m1!4b1!4m6!3m5!1s0x89cea62046f3ae63:0xd6e44a90a7d8105b!8m2!3d40.8009423!4d-77.861494!16s%2Fg%2F1tj7xbzq?entry=ttu)
+  link="https://www.google.com/maps/place/Huck+Life+Sciences+Building,+University+Park,+PA+16802/@40.8009423,-77.8640743,17z/data=!3m1!4b1!4m6!3m5!1s0x89cea62046f3ae63:0xd6e44a90a7d8105b!8m2!3d40.8009423!4d-77.861494!16s%2Fg%2F1tj7xbzq?entry=ttu"
 %}
 
 {% include section.html %}
