@@ -98,6 +98,7 @@ We are committed to creating a positive lab culture to train the next generation
   image="images/culture.jpg"
   link="culture"
   title="Lab Culture"
+  flip=true
   text=text
 %}
 
