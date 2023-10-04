@@ -102,3 +102,26 @@ We are committed to creating a positive lab culture to train the next generation
   text=text
 %}
 
+<!-------------------------------------->
+{% capture text %}
+
+We dip a toe in methods and tool development to enable microbiome research. Find out more about how they could help your research.
+
+{%
+  include button.html
+  link="tools"
+  text="Find a tool here"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/tools.jpg"
+  link="tools"
+  title="Tools"
+  text=text
+%}
