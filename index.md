@@ -30,6 +30,30 @@ We are working to understand how genetic and phenotypic diversity, both at large
 <!-------------------------------------->
 {% capture text %}
 
+We are working to understand how genetic and phenotypic diversity, both at large scales and within species, shapes the assembly and function of host-associated microbes. We are particularily interested in these questions in the context of drugs/xenobiotics, dietary peturbations, and infectious disease.  
+
+{%
+  include button.html
+  link="blog"
+  text="See what is happening around the lab"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/news.jpg"
+  link="blog"
+  title="Latest Lab News"
+  text=text
+%}
+
+<!-------------------------------------->
+{% capture text %}
+
 We are actively publishing in multiple areas of microbiome-adjacent science. Find out more about our recent manuscripts.
 
 {%
