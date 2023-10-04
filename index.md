@@ -3,7 +3,7 @@
 
 # BisanzLab's Website
 
-An engaging 1-3 sentence description of your lab.
+Our missing is to understand how microbial diversity shapes host physiology.
 
 {% include section.html %}
 
