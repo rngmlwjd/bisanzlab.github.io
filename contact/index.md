@@ -43,8 +43,8 @@ Are you an undergraduate student who is interested in a career in biomedical res
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/huck.jpg"
+  caption="The lab is located in LSB304, Huck Life Science Building."
 %}
 
 {% endcapture %}
@@ -53,8 +53,8 @@ Are you an undergraduate student who is interested in a career in biomedical res
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/mailing.jpg"
+  caption="Mailing address: Room 101, Floor 1, Life Science Building, Shortlidge Road, University Park, PA, 16802"
 %}
 
 {% endcapture %}
