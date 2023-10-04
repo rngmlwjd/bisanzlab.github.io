@@ -12,19 +12,15 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{% include section.html %}
-
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+## Lab Alumini
+
+| Member | Role | Years In Lab | Current Position | Accolades |
+| :---- | :----: |  :----: | :----: |  ----: |
+| Jaden Carper  |  Lab Technician   |  2021-2022   |  High School Science Teacher | |
+| Wei Gui  |  Lab Technician   |  2023   |  Associate Product Manager, Abott Labs | |
+| Dean Miller  |   Undergraduate Researcher   |  2021-2023   | Intern, Merck Pharmaceuticals | Summer Undergraduate Research Fellowship |
 
 {% endcapture %}
 
