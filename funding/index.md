@@ -1,7 +1,7 @@
 ---
 title: Funding
 nav:
-  order: 1
+  order: 7
   tooltip: Published works
 ---
 
