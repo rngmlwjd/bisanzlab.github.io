@@ -1,7 +1,7 @@
 ---
 name: Anastacia Diaz
-image: 
-role: undergraduate
+image: Diaz_Anastacia.jpg
+role: undergrad
 links:
   email: amd7269@psu.edu
   google-scholar: https://scholar.google.com/citations?user=O38zYKMAAAAJ&hl=en
