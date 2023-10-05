@@ -1,6 +1,6 @@
 ---
 name: Anastacia Diaz
-image: Diaz_Anastacia.jpg
+image: images/team/Diaz_Anastacia.jpg
 role: undergrad
 links:
   email: amd7269@psu.edu
