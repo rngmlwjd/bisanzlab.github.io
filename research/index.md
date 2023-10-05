@@ -51,6 +51,6 @@ Comprehensive tools for mechanistic experimentation are largely lacking for most
   include feature.html
   image="images/straindiv.jpg"
   link="research"
-  title="Synthetic Microbiomes"
+  title="Diversity in Drug-Microbe Interactions"
   text=text
 %}
