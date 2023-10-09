@@ -3,11 +3,7 @@ name: Jingcheng Zhao
 image: images/team/Zhao_Jingcheng.jpg
 role: postdoc
 links:
-  email: jordan.bisanz@psu.com
-  orcid: 0000-0002-8649-1706
-  google-scholar: zRK8-hgAAAAJ
-  github: BisanzLab
-  twitter: JordanBisanz
+  email: jjz5561@psu.edu
 ---
 
-Jingcheng received his bachelor’s degree in Food Science and Engineering from Zhejiang University and PhD in Nutritional Sciences from Iowa State University. His research focus is the effects of diet on gut microbes with expertise in both bioinformatic and laboratory analyses. Working with Dr. Wendy White, he studied the prebiotic effects of a cranberry beverage on the human gut microbiota. Jingcheng is investigating how gut microbes affect nutrient absorption. He loves playing soccer and badminton in his free time.
+Jingcheng earned his bachelor’s degree in Food Science and Engineering from Zhejiang University and PhD in Nutritional Sciences from Iowa State University. His research focus is the interaction between diet and gut microbes with expertise in both bioinformatic and laboratory analyses. He has received National Scholarship for Undergraduate Students, Bonnie Keppy Moeller Graduate Scholarship, and Phyllis Bennett Hans Graduate Scholarship. Jingcheng is investigating how caloric restriction affects microbiome and pathogen colonization resistance. He loves playing soccer and badminton in his free time.
