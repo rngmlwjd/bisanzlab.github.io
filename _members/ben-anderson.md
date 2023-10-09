@@ -2,6 +2,13 @@
 name: Ben Anderson
 image: images/team/Anderson_Ben.jpg
 role: phd
+links:
+  email: bda5161@psu.edu
+  orcid: 0000-0002-4464-9157
+  google-scholar: rv2sW-mgAAAAJ
 ---
 
-Ben completed his undergrad at Purdue University majoring in Biochemistry. Between undergrad and graduate school, he worked as a lab technician at the Penn State College of Medicine. There he worked in Dr. Wei Li’s lab where he assisted with Glioblastoma research. Ben is working on a xenobiotics project focusing on the effects of non-antibiotic drugs on the gut microbiome. Outside of lab, Ben can be found on evening runs, weekend hiking trips, and watching Purdue basketball games.
+Ben is a third year BMMB graduate student in the lab. Prior to coming, Ben graduated with honors from Purdue University and then worked as a research technologist for two years. His project focuses on the interactions between orally administered antimalarial drugs and the gut microbiome. To explore these interactions, Ben uses culture-based and gnotobiotic mouse models to analyze how the gut microbiome composition is altered by antimalarial drugs, and to examine how the gut microbiome can change these compounds. Ben’s awards include Homer F. Braddock and Nellie H. and Oscar L. Roberts Fellowship, Stephen B. Brumbach Distinguished Graduate Fellowship, and the Paul Berg Graduate Assistantship in the Eberly College of Science. Ben has also served as treasurer of the Biochemistry, Molecular Biology, and Microbiology Graduate program GSA for two years. Outside of the lab, Ben can be found on evening runs, weekend hiking trips, and watching Purdue basketball games.
+
+
+
