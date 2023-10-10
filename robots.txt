@@ -1,1 +1,1 @@
-Sitemap: /BisanzLabWebsite/sitemap.xml
+Sitemap: /sitemap.xml
