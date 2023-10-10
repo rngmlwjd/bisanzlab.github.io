@@ -1,6 +1,6 @@
 ---
 name: Susan Tian
-image: images/team/Tian_Susan.jpg
+image: /images/team/Tian_Susan.jpg
 role: phd
 links:
   email: sbt5355@psu.com
