@@ -13,7 +13,7 @@ Diversity matters, but why? This 5-year NIH/NIGMS funded project seeks to unders
 
 ![](https://www.newswise.com/legacy/image.php?image=/images/institutions/logos/NIH-NIGMS-logo-Full-Color.jpg&width=500&height=100)
 
-### Young Investiator for Probiotics Research
+### Young Investigator Grant for Probiotics Research (YIGPRO) 
 
 Humans have a complicated relationship with the metals in our diet. Some are essential nutrients, others are extremely toxic, and many are both. The gut microbiome has been shown to modulate how metals are absorbed but relatively little is known about which microbes are involved and/or the relationship between the microbial metal-metabolizing enzymes and the fate of dietary metals. This project aims to increase our understanding of the role microbes play in the bioavailability of dietary metals and generate new probiotic strains to enhance beneficial metal absorption while preventing the absorption of toxic metals.
 
