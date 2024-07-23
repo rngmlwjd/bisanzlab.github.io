@@ -23,3 +23,5 @@ nav:
 | Jaden Carper  |  Lab Technician   |  2021-2022   |  High School Science Teacher | |
 | Wei Gui  |  Lab Technician   |  2023   |  Associate Product Manager, Abbott Labs | |
 | Dean Miller  |   Undergraduate Researcher   |  2021-2023   | Intern, Merck Pharmaceuticals | Summer Undergraduate Research Fellowship |
+| Isabella Neumann  |   Undergraduate Researcher |  2023-2024  |  |  |
+| Anastacia Diaz   | Undergraduate Researcher   |   2023-2024   |   |   |
