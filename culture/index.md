@@ -23,3 +23,12 @@ We embrace all human (and microbial) diversity. Much like a healthy gut microbio
 
 Science is more fun (and productive) as a team. We build our team atmosphere through activities such as our annual Fall Classic: a microbiome trivia/athletic competition designed to separate the endospores from the persisters. Ice cream also somehow seems to be a regular occurrence.
 
+{% include section.html %}
+
+{% capture content %}
+
+{% include figure.html image="images/team.jpg" %} {% include figure.html image="images/news.jpg" %} {% include figure.html image="images/culture.jpg" %}
+
+{% endcapture %}
+
+{% include grid.html style="square" content=content %}
