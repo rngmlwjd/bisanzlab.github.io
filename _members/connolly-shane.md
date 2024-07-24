@@ -1,7 +1,7 @@
 ---
 name: Shane Connolly
-image: 
-role: PhD Student
+image: images/team/Connolly_Shane.jpg
+role: phd
 links:
   email: stc5395@psu.edu
   orcid: 0009-0000-7483-6263
